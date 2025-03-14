@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I am a **Computer Science Student** at **St. Joseph Engineering College, Mangaluru**, passionate about **Web Development and AI**. With hands-on experience in **UI/UX design, system architecture, and independent projects**, I strive to build **innovative and scalable solutions**.
+I am a **Computer Science Engineer**, Mangaluru**, passionate about **Web Development and AI**. With hands-on experience in **UI/UX design, system architecture, and independent projects**, I strive to build **innovative and scalable solutions**.
 
 🔹 **Currently working as:** Project Associate (Remote)  
 🔹 **IEEE College Club Secretary:** Organized events, led projects, and fostered tech engagement  
