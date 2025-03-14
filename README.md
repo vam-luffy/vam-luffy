@@ -36,7 +36,7 @@ I am a **Computer Science Student** at **St. Joseph Engineering College, Mangalu
 
 ![Vamshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vam-luffy&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vam-luffy&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=vam-luffy&theme=radical)
+![GitHub Metrics](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vam-luffy&theme=radical)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vam-luffy&theme=react-dark)
 
 ---
