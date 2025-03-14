@@ -4,8 +4,9 @@
 
 I am a **Computer Science Student** at **St. Joseph Engineering College, Mangaluru**, passionate about **Web Development, AI, and Blockchain**. With hands-on experience in **UI/UX design, system architecture, and independent projects**, I strive to build **innovative and scalable solutions**.
 
-🔹 **Currently working as:** Project Associate (Remote)   
-🔹 **IEEE College Club Secretary:** Organized events, and fostered tech engagement  
+🔹 **Currently working as:** Project Associate (Remote)  
+🔹 **Collaborating with:** Dr. Nagesh (MD, IPG Automotive)  
+🔹 **IEEE College Club Secretary:** Organized events, led projects, and fostered tech engagement  
 
 ---
 
@@ -33,10 +34,10 @@ I am a **Computer Science Student** at **St. Joseph Engineering College, Mangalu
 
 ## 📊 GitHub Stats
 
-![Vamshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VamshithBangera&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VamshithBangera&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VamshithBangera&theme=radical)
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=VamshithBangera&theme=react-dark)
+![Vamshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vam-luffy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vam-luffy&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vam-luffy&theme=radical)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=vam-luffy&theme=react-dark)
 
 ---
 
