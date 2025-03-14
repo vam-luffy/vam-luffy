@@ -5,7 +5,6 @@
 I am a **Computer Science Student** at **St. Joseph Engineering College, Mangaluru**, passionate about **Web Development, AI, and Blockchain**. With hands-on experience in **UI/UX design, system architecture, and independent projects**, I strive to build **innovative and scalable solutions**.
 
 🔹 **Currently working as:** Project Associate (Remote)  
-🔹 **Collaborating with:** Dr. Nagesh (MD, IPG Automotive)  
 🔹 **IEEE College Club Secretary:** Organized events, led projects, and fostered tech engagement  
 
 ---
