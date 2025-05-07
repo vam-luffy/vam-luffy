@@ -49,7 +49,7 @@ I am a **Computer Science Engineer**, **Mangaluru**, passionate about **Web Deve
 ## 🌎 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vamshith-s-bangera-22b4522a3)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vam-luffy)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://waanderlust.onrender.com/)
+[![Portfolio](portfolio-vams-vs5n.vercel.app)
 
 ---
 
