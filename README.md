@@ -123,7 +123,7 @@ I'm a passionate **Computer Science Engineer** from **Mangaluru, India**, specia
 </td>
 <td width="50%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vam-luffy&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vam-luffy&theme=radical&hide_border=true&background=0D1117)
 
 </td>
 </tr>
